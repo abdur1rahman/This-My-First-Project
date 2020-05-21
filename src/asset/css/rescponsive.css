@@ -1,0 +1,37 @@
+@media (max-width: 360px) and (max-width: 640px){
+    .navTitle{font-size:20px;}
+    .navTitleScroll{font-size:20px;}
+    .Logo{width: 100px;}
+    .CarWork{margin: auto; margin-bottom:40px;}
+    .ourCourseTitle{margin-top: 5px;}
+    .videoCard{padding: 1rem 3rem 6rem 3rem; margin: 50px auto;}
+    }
+
+@media (max-width: 576px) and (max-width: 767.98px) {
+    .topTitle{font-size: 32px;}
+    .topSubTitle{font-size:18px;}
+    .serviceMainTitle{font-size: 24px;}
+    .LoadingAnimation{width:120px;height: 120px;}
+    .serviceName{font-size: 18px;}
+    .CounterTitle{font-size:32px ;}
+    .CounterSubTitle{font-size:16px ;}
+    .CountSection{margin-top:10%;}
+    .CarWork{margin:auto;width:18rem;margin-top:10%;}
+    .summaryFixed{ min-height: 450px;}
+    .summaryFixedBannerOverlay {min-height: 450px;}
+    .ourCourseTitle{margin-top: 5px;}
+
+
+
+
+
+}
+@media (max-width: 768px) and (max-width: 991.98px) {
+
+}
+@media (max-width: 992px) and (max-width: 1199.98px) {
+
+}
+@media (max-width: 1200px){
+
+}
